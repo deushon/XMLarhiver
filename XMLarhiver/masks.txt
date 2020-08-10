@@ -1,0 +1,60 @@
+<group>
+H P
+HM*61.xml
+LM*61.xml
+PM*61.xml
+<group>
+C P
+CM*61.xml
+LCM*61.xml
+PCM*61.xml
+<group>
+H S
+HM*41.xml
+LM*41.xml
+SM*41.xml
+<group>
+T S
+TM*42.xml
+LTM*42.xml
+SM*42.xml
+<group>
+DP P
+DP*
+LPM*
+FP*
+<group>
+DV P
+DV*
+LVM*
+FV*
+<group>
+DS P
+DS*
+LSM*
+FS*
+<group>
+DU P
+DU*
+LUM*
+FU*
+<group>
+DO P
+DO*
+LOM*
+FO*
+<group>
+DF P
+DF*
+LFM*
+FF*
+<group>
+DD P
+DD*
+LDM*
+FD*
+<group>
+DR P
+DR*
+LRM*
+FR*

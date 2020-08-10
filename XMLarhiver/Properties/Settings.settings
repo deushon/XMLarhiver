@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="XMLarhiver.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="masks" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;group&gt;
+H P
+HM*
+LM*
+PM*
+&lt;group&gt;
+H S
+HM*1.xml
+LM*1.xml
+SM*1.xml
+&lt;group&gt;
+T S
+TM*2.xml
+LTM*2.xml
+SM*2.xml
+&lt;group&gt;
+DP P
+DP*
+LPM*
+FP*
+&lt;group&gt;
+DV P
+DV*
+LVM*
+FV*
+&lt;group&gt;
+DS P
+DS*
+LSM*
+FS*
+&lt;group&gt;
+DU P
+DU*
+LUM*
+FU*
+&lt;group&gt;
+DO P
+DO*
+LOM*
+FO*
+&lt;group&gt;
+DF P
+DF*
+LFM*
+FF*
+&lt;group&gt;
+DD P
+DD*
+LDM*
+FD*
+&lt;group&gt;
+DR P
+DR*
+LRM*
+FR*</Value>
+    </Setting>
+    <Setting Name="XMLpatch" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PackPatch" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
